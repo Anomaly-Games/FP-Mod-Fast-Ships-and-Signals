@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StarshipSetup>
+  <!-- Spaceship Speed by Tech Level -->
+  <SHIP_SpeedByTechLevel_1>0.0006</SHIP_SpeedByTechLevel_1>
+  <SHIP_SpeedByTechLevel_2>0.0006</SHIP_SpeedByTechLevel_2>
+  <SHIP_SpeedByTechLevel_3>0.0006</SHIP_SpeedByTechLevel_3>
+  <SHIP_SpeedByTechLevel_4>0.0006</SHIP_SpeedByTechLevel_4>
+  <SHIP_SpeedByTechLevel_5>0.0006</SHIP_SpeedByTechLevel_5>
+  <SHIP_SpeedByTechLevel_6>0.0009</SHIP_SpeedByTechLevel_6>
+  <SHIP_SpeedByTechLevel_7>0.0012</SHIP_SpeedByTechLevel_7>
+  <SHIP_SpeedByTechLevel_8>0.0015</SHIP_SpeedByTechLevel_8>
+  <SHIP_SpeedByTechLevel_9>0.00195</SHIP_SpeedByTechLevel_9>
+  <SHIP_SpeedByTechLevel_10>0.0024</SHIP_SpeedByTechLevel_10>
+  <SHIP_SpeedByTechLevel_11>0.003</SHIP_SpeedByTechLevel_11>
+  <SHIP_SpeedByTechLevel_12>0.006</SHIP_SpeedByTechLevel_12>
+  <SHIP_SpeedByTechLevel_13>0.012</SHIP_SpeedByTechLevel_13>
+  <SHIP_SpeedByTechLevel_14>0.015</SHIP_SpeedByTechLevel_14>
+  <SHIP_SpeedByTechLevel_15>0.03</SHIP_SpeedByTechLevel_15> 
+</StarshipSetup>
